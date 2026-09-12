@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+patcher-data/
+build/
+dist/
+test-artifacts/
+DLSSG-Patcher.exe
+.pytest_cache/

@@ -1,0 +1,4 @@
+# Versions already present on the build PC. End users only need the EXE.
+PySide6==6.8.1
+PyInstaller==6.11.1
+pefile==2023.2.7
